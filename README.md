@@ -23,8 +23,8 @@ Press the link <a href="Files/W6L6"> W6L6</a>
 Press the link <a href="Files/W7L7"> W7L7</a>
 
 * W8L8
-Press the link <a href="Files/W9L9"> W9L9</a>
+Press the link <a href="Files/W8L8"> W8L8</a>
 
 * W9L9
-Press the link <a href="Files/W10L10"> W10L10</a>
+Press the link <a href="Files/W9L9"> W9L9</a>
 
